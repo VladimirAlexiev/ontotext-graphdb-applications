@@ -22,7 +22,8 @@ such as semantic, querying, annotation, etc.
 
 - [[./graphdb-wordCloud.txt]] is a list of 95 phrases extracted from the first 150 papers on Google Scholar
 - [[./graphdb-wordCloud1.txt]] uses "~" instead of space as separator to make the tool treat phrases not words
-- I used [[http://WordClouds.com][WordClouds.com]] to generate this cloud, with settings Size 3000x3000, Gap size 2, Shape square, Colors (as many as possible), Font verdana.
+- I used [[http://WordClouds.com][WordClouds.com]] to generate this cloud, with settings:
+  Size: 3000x3000, Gap size: 2, Direction of words: uphill/horizontal/downhill, Shape: square, Colors: (as many as possible), Font: Verdana.
 - Editable cloud: https://www.wordclouds.com/?yygpKSi20tfP1MvMTS8t0kvOz9VPjfBMz8hL1ssqSAcA
 - Uploaded image: https://i.imgur.com/eXIghnc.jpg
 - Locally saved image: ~graphdb-wordCloud.png~
