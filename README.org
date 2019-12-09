@@ -1,3 +1,5 @@
+* Academic Uses of Ontotext GraphDB
+
 [[http://graphdb.ontotext.com][Ontotext GraphDB]] has a Free edition that only has a limit on the number of concurrent queries.
 People tell us that they like the developer and user-friendliness of the database, especially the GraphDB Workbench.
 As a result, it's used widely in academic research.
@@ -5,12 +7,15 @@ As a result, it's used widely in academic research.
 GraphDB Free collects usage statistics (you can opt out of that), but I don't believe we have analyzed it systematically.
 Another way to analyze where it is used is to research the literature.
 
+* GraphDB on Wikipedia
 I started a Wikipedia table entry about GraphDB:
 https://en.wikipedia.org/wiki/Talk:Graph_database#Ontotext_GraphDB.
 As part of that, in Dec 2018 I did some analysis and saw that is used in a wide variety of domains, eg:
 social media analytics, data marketplaces, engineering, life sciences, medicine, chemistry, art history vocabularies, Holocaust research, etc.
 
-Here are some sources, refreshed as of Dec 2019:
+* Sources
+
+Here are some sources of references, refreshed as of Dec 2019:
 - [[https://scholar.google.bg/scholar?q=ontotext+graphdb+OR+owlim][Google Scholar]] (search for "ontotext graphdb OR owlim"): about 1000-1200 academic papers that mention it (research articles, theses, etc). 
   I checked the [[https://scholar.google.bg/scholar?start=990&q=ontotext+graphdb+OR+owlim][page starting at result 990]] and although most of those 10 papers are not in English (I hit Spanish, German, French and Catalonian),
   I was able to verify that all of them mention it.
@@ -23,6 +28,16 @@ Here are some sources, refreshed as of Dec 2019:
     Eg the news item [[https://commercegazette.com/2019/12/09/automatic-identification-and-data-capture-aidc-market-worth-100-5-billion-by-2025-datalogic-honeywell-zebra-technologies-sick-cognex-sato-denso-wave-cipherlab-2/][Automatic Identification and Data Capture (AIDC) Market worth $100.5 billion by 2025-Datalogic, Honeywell, Zebra Technologies, Sick, Cognex, Sato, Denso Wave, Cipherlab]]
     is not related to Ontotext, except that it mentions the item 
     [[https://commercegazette.com/2019/12/09/semantic-knowledge-discovery-software-market-research-2019-key-players-maanachemaxonexpert-system-spaontotextcollexis-elseviercambridge-semanticsnervana-intel/][Semantic Knowledge Discovery Software Market Research 2019: Key Players- MAANA,ChemAxon,Expert System SpA,OntoText,Collexis (Elsevier),Cambridge Semantics,Nervana (intel)]] at the bottom.
+
+* Zotero Bibliography
+
+I started a Zotero bibliography [[https://www.zotero.org/groups/2272261/ontotext/items/collectionKey/3XWCS346][Groups > Ontotext > Library > Papers Mentioning GraphDB]] that is currently closed 
+and includes only 102+14 papers (102 by external authors and 14 by Ontotext authors).
+If you are interested, we could open the library and add more of the Google Scholar papers to it.
+
+If you have some other information needs or ideas, post an issue or a pull request!
+
+* WordCloud
 
 Here is a word-cloud of applications of Ontotext GraphDB in academic papers.
 These are phrases describing the application domain, so they exclude phrases 
@@ -43,13 +58,10 @@ such as semantic, querying, annotation, etc.
   - Colors> background> Color: select a drak green
   - Font: Verdana
   - Font size (slider above the wordlet): 40 (to fill out the tree shape in a good way)
-- Saved as PNG: [[./ontotext-graphdb-applications.png]]
-- Saved SVG: [[./ontotext-graphdb-applications.svg]]. Please note that this is a bit inferior. "Saving as SVG is an experimental feature. Depending on the SVG viewer you use, texts might not be aligned properly in the word cloud. Masks are not visible either."
-
+- Saved as PNG:
 [[./ontotext-graphdb-applications.png]]
 
-I started a Zotero bibliography [[https://www.zotero.org/groups/2272261/ontotext/items/collectionKey/3XWCS346][Groups > Ontotext > Library > Papers Mentioning GraphDB]] that is currently closed 
-and includes only 102+14 papers (102 by external authors and 14 by Ontotext authors).
-If you are interested, we could open the library and add more of the Google Scholar papers to it.
+- Saved as SVG: Please note that this is a bit inferior. "Saving as SVG is an experimental feature. Depending on the SVG viewer you use, texts might not be aligned properly in the word cloud. Masks are not visible either."
 
-If you have some other information needs or ideas, post an issue or a pull request!
+[[./ontotext-graphdb-applications.svg]]
+
