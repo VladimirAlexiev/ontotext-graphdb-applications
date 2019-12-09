@@ -1,6 +1,5 @@
-[Ontotext GraphDB](http://graphdb.ontotext.com) is not open source, 
-but it has a Free edition that only has a limit on the number of concurrent queries.
-And people tell us that they like the developer and user-friendliness of the database, especially the GraphDB Workbench.
+[[http://graphdb.ontotext.com][Ontotext GraphDB]] has a Free edition that only has a limit on the number of concurrent queries.
+People tell us that they like the developer and user-friendliness of the database, especially the GraphDB Workbench.
 As a result, it's used widely in academic research.
 
 GraphDB Free collects usage statistics (you can opt out of that), but I don't believe we have analyzed it systematically.
@@ -8,27 +7,49 @@ Another way to analyze where it is used is to research the literature.
 
 I started a Wikipedia table entry about GraphDB:
 https://en.wikipedia.org/wiki/Talk:Graph_database#Ontotext_GraphDB.
-As part of that, I saw that is used in a wide variety of domains, eg:
-social media analytics, data marketplaces , engineering, 
-life sciences, medicine, chemistry, art history vocabularies, Holocaust research, etc.
+As part of that, in Dec 2018 I did some analysis and saw that is used in a wide variety of domains, eg:
+social media analytics, data marketplaces, engineering, life sciences, medicine, chemistry, art history vocabularies, Holocaust research, etc.
 
-Some sources:
-- [[https://www.google.com/search?biw=2025&bih=1086&tbm=bks&ei=1cwbXO6ELoyI1fAPr66suAE&q=ontotext+graphdb&oq=ontotext+graphdb&gs_l=psy-ab.3...12442.13812.0.14445.8.8.0.0.0.0.146.973.0j7.7.0....0...1c.1.64.psy-ab..1.0.0....0.X2uN7ueETt4][Google Books]]: are there really 500 books that mention it? Checked the first 10-15, all of them do
-- [[https://news.google.com/search?q=ontotext][Google Scholar]]: shows about 250 research articles that mention it
+Here are some sources, refreshed as of Dec 2019:
+- [[https://scholar.google.bg/scholar?q=ontotext+graphdb+OR+owlim][Google Scholar]] (search for "ontotext graphdb OR owlim"): about 1000-1200 academic papers that mention it (research articles, theses, etc). 
+  I checked the [[https://scholar.google.bg/scholar?start=990&q=ontotext+graphdb+OR+owlim][page starting at result 990]] and although most of those 10 papers are not in English (I hit Spanish, German, French and Catalonian),
+  I was able to verify that all of them mention it.
+  There is some duplication, but even assuming this represents 700 unique academic papers, that's still very impressive.
+- [[https://www.google.com/search?q=ontotext+graphdb%2520OR%2520owlim&tbm=bks][Google Books]] (search for "ontotext graphdb OR owlim"): it's hard to say how many of these hits actually mention it since Google Books search uses some associative algorithm.
+  But I checked the first 5 pages and it seems most of those 50 books mention it.
+- [[https://news.google.com/search?q=ontotext][Google News]] (search for "Ontotext", not Ontotext GraphDB): this i sharder to judge, because:
+  - It includes many company press releases
+  - It seems to index not only the text of news items, but also header/footer text.
+    Eg the news item [[https://commercegazette.com/2019/12/09/automatic-identification-and-data-capture-aidc-market-worth-100-5-billion-by-2025-datalogic-honeywell-zebra-technologies-sick-cognex-sato-denso-wave-cipherlab-2/][Automatic Identification and Data Capture (AIDC) Market worth $100.5 billion by 2025-Datalogic, Honeywell, Zebra Technologies, Sick, Cognex, Sato, Denso Wave, Cipherlab]]
+    is not related to Ontotext, except that it mentions the item 
+    [[https://commercegazette.com/2019/12/09/semantic-knowledge-discovery-software-market-research-2019-key-players-maanachemaxonexpert-system-spaontotextcollexis-elseviercambridge-semanticsnervana-intel/][Semantic Knowledge Discovery Software Market Research 2019: Key Players- MAANA,ChemAxon,Expert System SpA,OntoText,Collexis (Elsevier),Cambridge Semantics,Nervana (intel)]] at the bottom.
 
-Here is a word-cloud on applications of Ontotext GraphDB.
+Here is a word-cloud of applications of Ontotext GraphDB in academic papers.
 These are phrases describing the application domain, so they exclude phrases 
 such as semantic, querying, annotation, etc.
 
-- [[./graphdb-wordCloud.txt]] is a list of 95 phrases extracted from the first 150 papers on Google Scholar
+- [[./graphdb-wordCloud.txt]] is a list of 138 phrases extracted from the first 150 or so papers on Google Scholar
 - [[./graphdb-wordCloud1.txt]] uses "~" instead of space as separator to make the tool treat phrases not words
-- I used [[http://WordClouds.com][WordClouds.com]] to generate this cloud, with settings:
-  Size: 3000x3000, Gap size: 2, Direction of words: uphill/horizontal/downhill, Shape: square, Colors: (as many as possible), Font: Verdana.
-- Editable cloud: https://www.wordclouds.com/?yygpKSi20tfP1MvMTS8t0kvOz9VPjfBMz8hL1ssqSAcA
-- Uploaded image: https://i.imgur.com/eXIghnc.jpg
-- Locally saved image: ~graphdb-wordCloud.png~
+- I used [[http://WordClouds.com][WordClouds.com]] to generate this cloud
+- Configuration saved as: [[./ontotext-graphdb-applications.wcld]] (CloudConfig v2.4.6)
+- Use File> Open and load the above file. It represents the following settings:
+  - File> Paste/Type text: paste [[./graphdb-wordCloud1.txt]]
+  - Size: 800x800
+  - Gap size: 2
+  - Direction of words: uphill/horizontal/downhill
+  - Shape> shapes: christmas tree
+  - Mask: checked
+  - Theme: 4-th one with 6 colors
+  - Colors> background> Color: select a drak green
+  - Font: Verdana
+  - Font size (slider above the wordlet): 40 (to fill out the tree shape in a good way)
+- Saved as PNG: [[./ontotext-graphdb-applications.png]]
+- Saved SVG: [[./ontotext-graphdb-applications.svg]]. Please note that this is a bit inferior. "Saving as SVG is an experimental feature. Depending on the SVG viewer you use, texts might not be aligned properly in the word cloud. Masks are not visible either."
 
-[[./graphdb-wordCloud.png]]
+[[./ontotext-graphdb-applications.png]]
 
-Hopefully in the future I'll add some more info, eg a Zotero bibliography.
-If you have some needs or ideas, post an issue or a pull request!
+I started a Zotero bibliography [[https://www.zotero.org/groups/2272261/ontotext/items/collectionKey/3XWCS346][Groups > Ontotext > Library > Papers Mentioning GraphDB]] that is currently closed 
+and includes only 102+14 papers (102 by external authors and 14 by Ontotext authors).
+If you are interested, we could open the library and add more of the Google Scholar papers to it.
+
+If you have some other information needs or ideas, post an issue or a pull request!
