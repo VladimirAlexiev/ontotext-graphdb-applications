@@ -55,7 +55,7 @@ such as semantic, querying, annotation, etc.
   - Shape> shapes: christmas tree
   - Mask: checked
   - Theme: 4-th one with 6 colors
-  - Colors> background> Color: select a drak green
+- Colors> background> Color: select a dark green
   - Font: Verdana
   - Font size (slider above the wordlet): 40 (to fill out the tree shape in a good way)
 - Saved as PNG:
