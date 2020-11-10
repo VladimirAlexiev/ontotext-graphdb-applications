@@ -1,138 +1,213 @@
 Al-Quran
-EC Publications Office
+Bulgarian~icons
+COVID-19
+EC~Publications~Office
 EUCases
 Europeana
 FrameNet
+GDPR~compliance
 GIS
 GeoSPARQL
-Getty vocabularies
-Holocaust research
-ISO 25964
+GeoSPARQL+
+Geographica
+Getty~vocabularies
+Holocaust~research
+ISO~25964
 ISOcat
-NLP Interchange Format
-Open Street Map
-Panama papers
-XO laptop
-Zika virus
-academic management
-adaptive semantic publishing
-air traffic management
-ambient assisted living
-art research vocabularies
+IoT~systems
+NLP~Interchange~Format
+OceanGraph
+Open~Street~Map
+OpenBiodiv
+Orthodox~icons
+Panama~papers
+SHACL~implementation
+Semalytics
+TheyBuyForYou
+XO~laptop
+Zika~virus
+academic~management
+adaptive~semantic~publishing
+air~traffic~management
+ambient~assisted~living
+amplicon~analysis
+art~research~vocabularies
 audiovisual
-bibliographic references
-bibliographic repositories
-big data
-bilingual Arabic-English
-biogeographic data
-biomedical metadata
-biomedical research
+bibliographic~references
+bibliographic~repositories
+big~data
+bilingual~Arabic-English
+biodiversity
+biogeographic~data
+biomedical~metadata
+biomedical~research
 biorefineries
-business process management
-cancer
-clinical assessment
-clinical autonomy assistance
-clinical trials
-consumer data
-contextualized knowledge
-conversational assistants
-crisis management
-critical infrastructures
+building~construction
+building~information~management
+building~maintenance
+business~process~management
+cancer~data
+chemical~contaminants
+city-wide~infrastructure
+clinical~assessment
+clinical~autonomy~assistance
+clinical~trials
+cloud~infrastructure~code
+company~information
+conceptual~modeling
+construction~projects
+consumer~data
+context~configuration
+contextualized~knowledge
+conversational~assistants
+crisis~management
+critical~incidents
+critical~infrastructures
 crowdsourcing
-cultural heritage
-curation systems
-custom rules
-cyber-physical topology 
-data as-a-service
-data journalism
-data marketplaces
+cultural~heritage
+curation~systems
+custom~rules
+cyber-physical~social~system
+cyber-physical~system
+cyber-physical~topology
+data~as-a-service
+data~journalism
+data~marketplaces
+data~science~pipelines
 data-as-a-service
-defense analysis
+decision~support~system
+defense~analysis
 depression
-dialog generation
-digital repositories
-disaster response
-disputed information
-district energy
-diversity-aware ranking
-educational metadata
-electrophysiological experiments
-engineering services
-enterprise data fabric
-event recognition
-fact mining
-food and agriculture
-food and drink gazetteer
-football information
+dialog~generation
+dietary~supplements
+digital~mapping
+digital~repositories
+disaster~response
+disputed~information
+district~energy
+diversity-aware~ranking
+earth~observation
+educational~metadata
+electronic~health~records
+electrophysiological~experiments
+engineering~services
+enterprise~data~fabric
+environmental~health
+environmental~legislation
+euBusinessGraph
+event~recognition
+fact~mining
+factory~planning
+food~and~agriculture
+food~and~drink~gazetteer
+football~information
 geneology
+geolocation
 geospatial
 glycobiology
-health care evidence
-health data analytics
-hotel data
-hybrid knowledge bases
-industrial machine sensors
+graph~data
+health~care~evidence
+health~data~analytics
+historical~texts
+hotel~data
+human~nervous~system
+hybrid~knowledge~bases
+industrial~IoT
+industrial~machine~sensors
+industrial~megaprojects
+infrastructure~projects
+integrated~querying
 interdisciplinarity
-internet of things
-intracoronal tooth restorations
-investment decision support
+internet~of~things
+intestinal~cells
+intracoronal~tooth~restorations
+investment~decision~support
+investment~recommendation
 journalism
-journalist workbench
-knowledge-based coordination
-language learning
-legal cases
-legal linked open data
-library linked data
-licensing understanding 
-life sciences
-linguistic data
-linked data management
-maritime domain
-media monitoring
-medical decision support
-medical knowledge discovery
-medical texts
-metadata management 
-mind mapping
+journalist~workbench
+knowledge~graph
+knowledge-based~coordination
+land~cover
+language~learning
+legal~cases
+legal~linked~open~data
+library~linked~data
+licensing~understanding
+life~cycle~construction~information
+life~sciences
+linear~city~infrastructure
+linguistic~data
+linked~data~management
+literature-extracted~data
+machine~maintenance
+maritime~domain
+mathematical~expressions
+media~monitoring
+medical~decision~support
+medical~knowledge~discovery
+medical~texts
+metadata~management
+metamodeling
+mind~mapping
 model-driven
-molecule databases
-multi-disciplinary domains
+molecule~databases
+multi-disciplinary~domains
 multimedia
+multimodal~transport
 museums
-music events
-natural hazards
+music~events
+musical~adaptations
+natural~hazards
 neuroinformatics
 obesity
-offshore leaks
-online newspapers
-ontology inference
-ontology storage
-ontology-based classification
-open innovation
-patient data
-plant phenotyping
-protein function prediction
-ranking computations
-region-based data
-rights enforcement
-safe food consumption
+offshore~leaks
+offshore~tax-sheltered~firms
+online~newspapers
+ontology~inference
+ontology~storage
+ontology-based~classification
+open~innovation
+patient~data
+photographic~archives
+plant~phenotyping
+protein~function~prediction
+public~events
+public~procurement
+public~service~descriptions
+ranking~computations
+raster~data
+region-based~data
+rights~enforcement
+risk~factors~identification
+safe~food~consumption
 schema.org
-scientific publications
-security knowledge
-semantic publishing
-semantic subscription 
-sensor networks
-single-subject design studies
-smart cities
-software architecture representation
-software engineering
+scientific~publications
+security~knowledge
+semantic~publishing
+semantic~subscription
+sensor~measurements
+sensor~networks
+sensor~stream~processing
+single-subject~design~studies
+smart~cities
+software~architecture~representation
+software~engineering
+spatial~data~infrastructures
 spatio-temporal
-sports statistics
-statistical data 
-territorial partitions
-text analytics
+sports~statistics
+statistical~data
+tensor-based~triple~store
+territorial~partitions
+territorial~units
+text~analytics
 thesauri
-topic modeling
-uncertainty handling
+topic~modeling
+toxicology
+traffic~data~analysis
+translational~research
+transport~interoperability
+trigonometry
+uncertainty~handling
 vaccines
-vector-space model
+vector~data
+vector-space~model

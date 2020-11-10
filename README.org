@@ -1,3 +1,4 @@
+
 * Academic Uses of Ontotext GraphDB
 
 [[http://graphdb.ontotext.com][Ontotext GraphDB]] has a Free edition that only has a limit on the number of concurrent queries.
@@ -29,6 +30,223 @@ Here are some sources of references, refreshed as of Dec 2019:
     is not related to Ontotext, except that it mentions the item 
     [[https://commercegazette.com/2019/12/09/semantic-knowledge-discovery-software-market-research-2019-key-players-maanachemaxonexpert-system-spaontotextcollexis-elseviercambridge-semanticsnervana-intel/][Semantic Knowledge Discovery Software Market Research 2019: Key Players- MAANA,ChemAxon,Expert System SpA,OntoText,Collexis (Elsevier),Cambridge Semantics,Nervana (intel)]] at the bottom.
 
+* Topics
+Here are 230 research topics (phrases) that I've extracted from the first 220 or so papers on Google Scholar (only looking at article titles, not abstracts):
+
+- Bulgarian icons
+- Al-Quran
+- COVID-19
+- EC Publications Office
+- EUCases
+- Europeana
+- FrameNet
+- GDPR compliance
+- GIS
+- GeoSPARQL
+- GeoSPARQL+
+- Geographica
+- Getty vocabularies
+- Holocaust research
+- ISO 25964
+- ISOcat
+- IoT systems
+- NLP Interchange Format
+- OceanGraph
+- Open Street Map
+- OpenBiodiv
+- Orthodox icons
+- Panama papers
+- SHACL implementation
+- Semalytics
+- TheyBuyForYou
+- XO laptop
+- Zika virus
+- academic management
+- adaptive semantic publishing
+- air traffic management
+- ambient assisted living
+- amplicon analysis
+- art research vocabularies
+- audiovisual
+- bibliographic references
+- bibliographic repositories
+- big data
+- bilingual Arabic-English
+- biodiversity
+- biogeographic data
+- biomedical metadata
+- biomedical research
+- biorefineries
+- building construction
+- building information management
+- building maintenance
+- business process management
+- cancer data
+- chemical contaminants
+- city-wide infrastructure
+- clinical assessment
+- clinical autonomy assistance
+- clinical trials
+- cloud infrastructure code
+- company information
+- conceptual modeling
+- construction projects
+- consumer data
+- context configuration
+- contextualized knowledge
+- conversational assistants
+- crisis management
+- critical incidents
+- critical infrastructures
+- crowdsourcing
+- cultural heritage
+- curation systems
+- custom rules
+- cyber-physical social system
+- cyber-physical system
+- cyber-physical topology
+- data as-a-service
+- data journalism
+- data marketplaces
+- data science pipelines
+- data-as-a-service
+- decision support system
+- defense analysis
+- depression
+- dialog generation
+- dietary supplements
+- digital mapping
+- digital repositories
+- disaster response
+- disputed information
+- district energy
+- diversity-aware ranking
+- earth observation
+- educational metadata
+- electronic health records
+- electrophysiological experiments
+- engineering services
+- enterprise data fabric
+- environmental health
+- environmental legislation
+- euBusinessGraph
+- event recognition
+- fact mining
+- factory planning
+- food and agriculture
+- food and drink gazetteer
+- football information
+- geneology
+- geolocation
+- geospatial
+- glycobiology
+- graph data
+- health care evidence
+- health data analytics
+- historical texts
+- hotel data
+- human nervous system
+- hybrid knowledge bases
+- industrial IoT
+- industrial machine sensors
+- industrial megaprojects
+- infrastructure projects
+- integrated querying
+- interdisciplinarity
+- internet of things
+- intestinal cells
+- intracoronal tooth restorations
+- investment decision support
+- investment recommendation
+- journalism
+- journalist workbench
+- knowledge graph
+- knowledge-based coordination
+- land cover
+- language learning
+- legal cases
+- legal linked open data
+- library linked data
+- licensing understanding
+- life cycle construction information
+- life sciences
+- linear city infrastructure
+- linguistic data
+- linked data management
+- literature-extracted data
+- machine maintenance
+- maritime domain
+- mathematical expressions
+- media monitoring
+- medical decision support
+- medical knowledge discovery
+- medical texts
+- metadata management
+- metamodeling
+- mind mapping
+- model-driven
+- molecule databases
+- multi-disciplinary domains
+- multimedia
+- multimodal transport
+- museums
+- music events
+- musical adaptations
+- natural hazards
+- neuroinformatics
+- obesity
+- offshore leaks
+- offshore tax-sheltered firms
+- online newspapers
+- ontology inference
+- ontology storage
+- ontology-based classification
+- open innovation
+- patient data
+- photographic archives
+- plant phenotyping
+- protein function prediction
+- public events
+- public procurement
+- public service descriptions
+- ranking computations
+- raster data
+- region-based data
+- rights enforcement
+- risk factors identification
+- safe food consumption
+- schema.org
+- scientific publications
+- security knowledge
+- semantic publishing
+- semantic subscription
+- sensor measurements
+- sensor networks
+- sensor stream processing
+- single-subject design studies
+- smart cities
+- software architecture representation
+- software engineering
+- spatial data infrastructures
+- spatio-temporal
+- sports statistics
+- statistical data
+- tensor-based triple store
+- territorial partitions
+- territorial units
+- text analytics
+- thesauri
+- topic modeling
+- toxicology
+- traffic data analysis
+- translational research
+- transport interoperability
+- trigonometry
+- uncertainty handling
+- vaccines
+- vector data
+- vector-space model
+
 * Zotero Bibliography
 
 I started a Zotero bibliography [[https://www.zotero.org/groups/2272261/ontotext/items/collectionKey/3XWCS346][Groups > Ontotext > Library > Papers Mentioning GraphDB]] that is currently closed 
@@ -43,15 +261,12 @@ If you have some other information needs or ideas, post an issue or a pull reque
 * WordCloud
 
 Here is a word-cloud of applications of Ontotext GraphDB in academic papers.
-These are phrases describing the application domain, so they exclude phrases 
-such as semantic, querying, annotation, etc.
 
-- [[./graphdb-wordCloud.txt]] is a list of 138 phrases extracted from the first 150 or so papers on Google Scholar
-- [[./graphdb-wordCloud1.txt]] uses "~" instead of space as separator to make the tool treat phrases not words
 - I used [[http://WordClouds.com][WordClouds.com]] to generate this cloud
-- Configuration saved as: [[./ontotext-graphdb-applications.wcld]] (CloudConfig v2.4.6)
-- Use File> Open and load the above file. It represents the following settings:
-  - File> Paste/Type text: paste [[./graphdb-wordCloud1.txt]]
+- [[./graphdb-wordCloud.txt]] uses "~" instead of space as separator to make the tool treat phrases not words
+- Configuration saved as: [[./ontotext-graphdb-applications.wcld]] (CloudConfig v3.5.3)
+- Use ~File> Open Text File~ and load the above file. It represents the following settings:
+  - ~File> Paste/Type text~: paste [[./graphdb-wordCloud.txt]]
   - Size: 800x800
   - Gap size: 2
   - Direction of words: uphill/horizontal/downhill
@@ -60,11 +275,14 @@ such as semantic, querying, annotation, etc.
   - Theme: 4-th one with 6 colors
 - Colors> background> Color: select a dark green
   - Font: Verdana
-  - Font size (slider above the wordlet): 40 (to fill out the tree shape in a good way)
-- Saved as PNG:
+  - Font size (slider above the wordlet): 51 (to fill out the tree shape in a good way)
+- Saved as ontotext-graphdb-applications.png (800x800)
+
 [[./ontotext-graphdb-applications.png]]
 
-- Saved as SVG: Please note that this is a bit inferior. "Saving as SVG is an experimental feature. Depending on the SVG viewer you use, texts might not be aligned properly in the word cloud. Masks are not visible either."
+- Saved as ontotext-graphdb-applications-HD.png (3200x3200, 2Mb)
+
+- Saved as ontotext-graphdb-applications.svg: Please note that this is a bit inferior "When saving as SVG, masks and backgrounds are not visible".
 
 [[./ontotext-graphdb-applications.svg]]
 

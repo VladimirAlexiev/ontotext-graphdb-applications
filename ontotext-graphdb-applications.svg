@@ -1,150 +1,643 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="800px" height="800px" viewBox="0 0 800 800">
-<clipPath id="cp1">
-<path d="M 0,0 L 800,0 L800,800 L 0,800 z M 0,0 L 1000,0 L 1000,1000 L 0,1000 z" fill-rule="evenodd">
-</path>
-</clipPath>
-<g clip-path="url(#cp1)">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="800">
+<defs/>
+<g>
+<g transform="translate(398,400) rotate(-12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="16.5196px" font-style="normal" font-weight="normal" x="-49.2236328125" y="-6.6078566400000005" text-anchor="start" dominant-baseline="alphabetic">GeoSPARQL</text>
 </g>
-<rect x="0" y="0" width="1000" height="1000" opacity="1" fill="rgb(20,135,41)" fill-opacity="1" stroke="none">
-</rect>
-<text x="-111.71627044677734" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(398, 398) rotate(-12)">software architecture representation</text>
-<text x="-99.90502166748047" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(416, 444) rotate(12)">electrophysiological experiments</text>
-<text x="-93.18756866455078" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(392, 386) rotate(-12)">intracoronal tooth restorations</text>
-<text x="-88.5635757446289" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(388, 370) rotate(-12)">single-subject design studies</text>
-<text x="-88.0283203125" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(442, 420)">ontology-based classification</text>
-<text x="-93.36897277832031" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(378, 340)">knowledge-based coordination</text>
-<text x="-87.00836181640625" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(326, 370) rotate(-12)">clinical autonomy assistance</text>
-<text x="-89.0453109741211" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(398, 472)">adaptive semantic publishing</text>
-<text x="-89.29808807373047" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(344, 442) rotate(12)">medical knowledge discovery</text>
-<text x="-86.27388763427734" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(398, 314) rotate(12)">investment decision support</text>
-<text x="-80.8470230102539" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(398, 488)">protein function prediction</text>
-<text x="-94.15697479248047" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(400, 504)">business process management</text>
-<text x="-80.52883911132812" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(502, 404)">multi-disciplinary domains</text>
-<text x="-81.68260192871094" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(318, 324)">industrial machine sensors</text>
-<text x="-76.60365295410156" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(414, 276) rotate(-12)">bibliographic repositories</text>
-<text x="-77.37382507324219" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(454, 312) rotate(12)">art research vocabularies</text>
-<text x="-76.69284057617188" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(514, 436)">conversational assistants</text>
-<text x="-75.77103424072266" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(400, 520)">medical decision support</text>
-<text x="-72.92527770996094" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(282, 456)">bibliographic references</text>
-<text x="-71.30463409423828" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(276, 366) rotate(-12)">bilingual Arabic-English</text>
-<text x="-75.47665405273438" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(400, 536)">food and drink gazetteer</text>
-<text x="-66.82337951660156" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(468, 302) rotate(12)">critical infrastructures</text>
-<text x="-78.98851013183594" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(368, 272) rotate(-12)">contextualized knowledge</text>
-<text x="-72.55653381347656" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(550, 366) rotate(12)">licensing understanding</text>
-<text x="-65.10462188720703" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(398, 560) rotate(12)">scientific publications</text>
-<text x="-70.14493560791016" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(404, 238) rotate(12)">ambient assisted living</text>
-<text x="-72.15211486816406" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(226, 408)">diversity-aware ranking</text>
-<text x="-72.53572082519531" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(494, 552)">cyber-physical topology</text>
-<text x="-76.2735824584961" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(378, 568) rotate(12)">linked data management</text>
-<text x="-73.61813354492188" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(338, 214) rotate(-12)">hybrid knowledge bases</text>
-<text x="-67.48948669433594" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(576, 386) rotate(12)">legal linked open data</text>
-<text x="-59.648033142089844" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(232, 440)">territorial partitions</text>
-<text x="-70.20440673828125" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(440, 220)">air traffic management</text>
-<text x="-66.2197494506836" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(584, 450) rotate(-12)">EC Publications Office</text>
-<text x="-74.53104400634766" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(472, 590) rotate(-12)">NLP Interchange Format</text>
-<text x="-65.80046844482422" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(258, 536)">enterprise data fabric</text>
-<text x="-63.7159423828125" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(540, 528)">health data analytics</text>
-<text x="-66.47248840332031" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(352, 588)">semantic subscription</text>
-<text x="-69.29743957519531" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(282, 572)">safe food consumption</text>
-<text x="-63.998435974121094" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(434, 196) rotate(12)">journalist workbench</text>
-<text x="-64.33446502685547" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(470, 604) rotate(-12)">software engineering</text>
-<text x="-62.954689025878906" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(360, 616) rotate(12)">uncertainty handling</text>
-<text x="-66.35948944091797" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(296, 196)">ranking computations</text>
-<text x="-63.382911682128906" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(424, 180) rotate(12)">health care evidence</text>
-<text x="-66.31489562988281" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(496, 614) rotate(-12)">educational metadata</text>
-<text x="-62.76439666748047" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(596, 420)">engineering services</text>
-<text x="-63.412635803222656" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(236, 556)">disputed information</text>
-<text x="-60.03162384033203" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(342, 264) rotate(-12)">football information</text>
-<text x="-61.8157958984375" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(430, 168) rotate(12)">food and agriculture</text>
-<text x="-56.52869415283203" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(266, 520)">digital repositories</text>
-<text x="-71.5782241821289" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(480, 630) rotate(-12)">metadata management</text>
-<text x="-52.52618408203125" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(306, 170) rotate(-12)">interdisciplinarity</text>
-<text x="-55.44331359863281" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(200, 424)">library linked data</text>
-<text x="-60.75122833251953" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(462, 648) rotate(-12)">semantic publishing</text>
-<text x="-58.464508056640625" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(348, 636)">clinical assessment</text>
-<text x="-63.93897247314453" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(462, 152)">biomedical metadata</text>
-<text x="-61.131866455078125" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(338, 652)">biomedical research</text>
-<text x="-71.13812255859375" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(276, 610) rotate(12)">academic management</text>
-<text x="-60.32006072998047" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(334, 140)">molecule databases</text>
-<text x="-52.89788818359375" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(530, 226) rotate(-12)">internet of things</text>
-<text x="-60.0316162109375" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(222, 584) rotate(12)">vector-space model</text>
-<text x="-58.865966796875" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(500, 652) rotate(-12)">security knowledge</text>
-<text x="-56.727928161621094" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(454, 124) rotate(-12)">ontology inference</text>
-<text x="-58.15526580810547" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(600, 588)">rights enforcement</text>
-<text x="-58.36637878417969" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(492, 668) rotate(-12)">biogeographic data</text>
-<text x="-56.989601135253906" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(374, 680) rotate(-12)">Getty vocabularies</text>
-<text x="-58.348541259765625" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(544, 348) rotate(12)">Holocaust research</text>
-<text x="-54.780189514160156" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(232, 614) rotate(12)">language learning</text>
-<text x="-47.866493225097656" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(550, 564)">sports statistics</text>
-<text x="-56.799285888671875" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(350, 116) rotate(-12)">online newspapers</text>
-<text x="-55.43141174316406" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(332, 674) rotate(-12)">plant phenotyping</text>
-<text x="-55.704986572265625" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(228, 636)">region-based data</text>
-<text x="-53.78105163574219" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(418, 118) rotate(-12)">disaster response</text>
-<text x="-53.23688507080078" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(586, 628)">event recognition</text>
-<text x="-53.10009002685547" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(442, 692)">dialog generation</text>
-<text x="-50.14430236816406" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(492, 290) rotate(12)">cultural heritage</text>
-<text x="-57.92034149169922" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(528, 176) rotate(12)">crisis management</text>
-<text x="-53.65019226074219" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(534, 502) rotate(12)">data-as-a-service</text>
-<text x="-56.49894714355469" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(254, 660) rotate(12)">data marketplaces</text>
-<text x="-53.08521270751953" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(282, 162) rotate(-12)">data as-a-service</text>
-<text x="-53.974342346191406" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(624, 610) rotate(12)">media monitoring</text>
-<text x="-51.58948516845703" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(236, 362) rotate(-12)">neuroinformatics</text>
-<text x="-44.69660949707031" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(270, 496) rotate(-12)">statistical data</text>
-<text x="-51.393226623535156" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(548, 204)">ontology storage</text>
-<text x="-52.01173400878906" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(342, 102) rotate(-12)">curation systems</text>
-<text x="-50.44761657714844" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(404, 706) rotate(12)">defense analysis</text>
-<text x="-52.21098327636719" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(430, 90) rotate(12)">maritime domain</text>
-<text x="-42.582359313964844" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(172, 616) rotate(12)">linguistic data</text>
-<text x="-47.66130828857422" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(536, 680)">natural hazards</text>
-<text x="-48.419593811035156" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(378, 714) rotate(12)">spatio-temporal</text>
-<text x="-50.2008056640625" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(612, 640)">sensor networks</text>
-<text x="-48.907264709472656" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(222, 666) rotate(12)">open innovation</text>
-<text x="-51.75305938720703" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(252, 208)">Open Street Map</text>
-<text x="-37.85429382324219" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(528, 484) rotate(12)">clinical trials</text>
-<text x="-44.128662109375" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(426, 76) rotate(12)">district energy</text>
-<text x="-47.845680236816406" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(446, 730) rotate(-12)">data journalism</text>
-<text x="-44.907745361328125" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(598, 664) rotate(12)">topic modeling</text>
-<text x="-41.033111572265625" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(354, 724) rotate(12)">text analytics</text>
-<text x="-42.80242156982422" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(232, 688)">offshore leaks</text>
-<text x="-40.863616943359375" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(490, 136)">medical texts</text>
-<text x="-36.72431945800781" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(290, 308)">life sciences</text>
-<text x="-37.753204345703125" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(346, 250) rotate(-12)">biorefineries</text>
-<text x="-47.060646057128906" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(424, 62) rotate(12)">Panama papers</text>
-<text x="-45.55004119873047" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(450, 744) rotate(-12)">consumer data</text>
-<text x="-44.06024932861328" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(350, 736) rotate(12)">crowdsourcing</text>
-<text x="-43.87291717529297" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(350, 748) rotate(12)">mind mapping</text>
-<text x="-40.16777801513672" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(242, 348) rotate(-12)">music events</text>
-<text x="-40.575172424316406" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(130, 640) rotate(-12)">model-driven</text>
-<text x="-35.60920715332031" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(616, 460)">smart cities</text>
-<text x="-37.05438995361328" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(170, 678) rotate(-12)">patient data</text>
-<text x="-37.81266784667969" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(630, 658) rotate(12)">glycobiology</text>
-<text x="-39.28460693359375" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(460, 756) rotate(-12)">custom rules</text>
-<text x="-33.367088317871094" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(342, 86) rotate(-12)">legal cases</text>
-<text x="-34.25917053222656" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(392, 38) rotate(-12)">audiovisual</text>
-<text x="-34.279991149902344" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(172, 454) rotate(12)">fact mining</text>
-<text x="-34.193763732910156" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(140, 654) rotate(-12)">multimedia</text>
-<text x="-30.89897918701172" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(336, 184)">hotel data</text>
-<text x="-32.195472717285156" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(370, 766) rotate(12)">journalism</text>
-<text x="-35.713279724121094" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(464, 770) rotate(-12)">schema.org</text>
-<text x="-30.14665985107422" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(208, 390) rotate(12)">Zika virus</text>
-<text x="-31.14281463623047" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(620, 688)">geospatial</text>
-<text x="-33.01025390625" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(138, 670) rotate(-12)">depression</text>
-<text x="-36.31398010253906" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(578, 540)">GeoSPARQL</text>
-<text x="-32.590972900390625" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(686, 652)">Europeana</text>
-<text x="-33.019195556640625" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(274, 482) rotate(-12)">ISO 25964</text>
-<text x="-30.09015655517578" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(396, 786) rotate(-12)">XO laptop</text>
-<text x="-31.3658447265625" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(344, 776)">geneology</text>
-<text x="-25.814064025878906" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(498, 276) rotate(12)">vaccines</text>
-<text x="-24.83574676513672" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(238, 224)">thesauri</text>
-<text x="-24.91008758544922" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22d" stroke="none" transform="translate(530, 192)">big data</text>
-<text x="-29.78387451171875" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(462, 786) rotate(-12)">FrameNet</text>
-<text x="-27.250335693359375" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#66d9ef" stroke="none" transform="translate(580, 616)">Al-Quran</text>
-<text x="-29.52812957763672" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(686, 670) rotate(-12)">museums</text>
-<text x="-21.93646240234375" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a581ff" stroke="none" transform="translate(520, 512) rotate(12)">obesity</text>
-<text x="-26.191726684570312" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#f92772" stroke="none" transform="translate(172, 592) rotate(-12)">EUCases</text>
-<text x="-20.083885192871094" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(554, 332) rotate(12)">cancer</text>
-<text x="-20.74999237060547" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#fd9720" stroke="none" transform="translate(510, 388)">ISOcat</text>
-<text x="-11.448478698730469" y="1.2183359999999999" style="font: normal 12.183359999999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.815557312252964" opacity="1" fill="#a6e22a" stroke="none" transform="translate(420, 432)">GIS</text>
+<g transform="translate(402,416) rotate(12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-35.3646240234375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">maritime domain</text>
+</g>
+<g transform="translate(398,428) rotate(12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-54.01776123046875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">mathematical expressions</text>
+</g>
+<g transform="translate(398,370) rotate(0,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-36.55902099609375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">media monitoring</text>
+</g>
+<g transform="translate(400,354) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-60.4852294921875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">medical knowledge discovery</text>
+</g>
+<g transform="translate(398,440) rotate(12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-51.32281494140625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">medical decision support</text>
+</g>
+<g transform="translate(440,414) rotate(12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-45.51800537109375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">machine maintenance</text>
+</g>
+<g transform="translate(354,388) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-50.9300537109375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">literature-extracted data</text>
+</g>
+<g transform="translate(446,398) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-24.8748779296875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">life sciences</text>
+</g>
+<g transform="translate(400,458) rotate(0,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-70.060546875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">life cycle construction information</text>
+</g>
+<g transform="translate(394,344) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-49.90283203125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">linear city infrastructure</text>
+</g>
+<g transform="translate(398,474) rotate(12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-28.8427734375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">linguistic data</text>
+</g>
+<g transform="translate(394,332) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-51.6632080078125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">linked data management</text>
+</g>
+<g transform="translate(468,410) rotate(12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-27.6785888671875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">medical texts</text>
+</g>
+<g transform="translate(392,322) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-48.48284912109375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">metadata management</text>
+</g>
+<g transform="translate(414,362) rotate(0,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-20.0006103515625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">museums</text>
+</g>
+<g transform="translate(358,442) rotate(12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-43.6669921875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">multimodal transport</text>
+</g>
+<g transform="translate(336,382) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-27.207275390625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">music events</text>
+</g>
+<g transform="translate(398,490) rotate(0,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-41.33056640625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">musical adaptations</text>
+</g>
+<g transform="translate(396,312) rotate(-12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-32.282958984375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">natural hazards</text>
+</g>
+<g transform="translate(460,378) rotate(12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-23.16082763671875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">multimedia</text>
+</g>
+<g transform="translate(400,502) rotate(0,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-54.54547119140625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">multi-disciplinary domains</text>
+</g>
+<g transform="translate(318,414) rotate(-12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-29.559814453125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">metamodeling</text>
+</g>
+<g transform="translate(394,302) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-29.7169189453125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">mind mapping</text>
+</g>
+<g transform="translate(464,366) rotate(12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-27.48321533203125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">model-driven</text>
+</g>
+<g transform="translate(438,466) rotate(0,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-40.85723876953125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">molecule databases</text>
+</g>
+<g transform="translate(398,290) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-49.1455078125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">licensing understanding</text>
+</g>
+<g transform="translate(508,400) rotate(12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-37.55401611328125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">library linked data</text>
+</g>
+<g transform="translate(400,518) rotate(-12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-48.80108642578125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">industrial megaprojects</text>
+</g>
+<g transform="translate(400,282) rotate(0,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-55.32696533203125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">industrial machine sensors</text>
+</g>
+<g transform="translate(488,430) rotate(0,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-46.19073486328125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">infrastructure projects</text>
+</g>
+<g transform="translate(336,470) rotate(12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-40.81494140625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">integrated querying</text>
+</g>
+<g transform="translate(274,400) rotate(12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-35.578125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">interdisciplinarity</text>
+</g>
+<g transform="translate(308,366) rotate(12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-27.43084716796875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">industrial IoT</text>
+</g>
+<g transform="translate(400,270) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-49.86456298828125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">hybrid knowledge bases</text>
+</g>
+<g transform="translate(302,430) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-43.15740966796875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">health data analytics</text>
+</g>
+<g transform="translate(464,354) rotate(0,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-30.41986083984375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">historical texts</text>
+</g>
+<g transform="translate(342,450) rotate(0,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-20.92913818359375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">hotel data</text>
+</g>
+<g transform="translate(400,530) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-48.55133056640625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">human nervous system</text>
+</g>
+<g transform="translate(524,392) rotate(12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-35.82989501953125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">internet of things</text>
+</g>
+<g transform="translate(330,326) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-29.42083740234375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">intestinal cells</text>
+</g>
+<g transform="translate(302,380) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-21.48504638671875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">land cover</text>
+</g>
+<g transform="translate(398,542) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-63.24261474609375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">knowledge-based coordination</text>
+</g>
+<g transform="translate(492,448) rotate(12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-37.1048583984375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">language learning</text>
+</g>
+<g transform="translate(316,354) rotate(0,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-22.60089111328125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">legal cases</text>
+</g>
+<g transform="translate(400,254) rotate(-12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-45.71337890625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">legal linked open data</text>
+</g>
+<g transform="translate(466,476) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-35.48345947265625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">knowledge graph</text>
+</g>
+<g transform="translate(398,554) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-43.3487548828125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">journalist workbench</text>
+</g>
+<g transform="translate(400,238) rotate(0,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-63.1197509765625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">intracoronal tooth restorations</text>
+</g>
+<g transform="translate(502,344) rotate(12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-58.43682861328125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">investment decision support</text>
+</g>
+<g transform="translate(282,348) rotate(-12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-59.37542724609375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">investment recommendation</text>
+</g>
+<g transform="translate(304,446) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-21.80731201171875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">journalism</text>
+</g>
+<g transform="translate(338,304) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-34.94366455078125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">neuroinformatics</text>
+</g>
+<g transform="translate(510,410) rotate(12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-28.9918212890625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">offshore leaks</text>
+</g>
+<g transform="translate(356,516) rotate(-12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-32.42193603515625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">sports statistics</text>
+</g>
+<g transform="translate(526,374) rotate(0,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-32.79656982421875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">spatio-temporal</text>
+</g>
+<g transform="translate(256,408) rotate(12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-30.27484130859375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">statistical data</text>
+</g>
+<g transform="translate(402,564) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-51.2362060546875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">tensor-based triple store</text>
+</g>
+<g transform="translate(252,378) rotate(-12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-40.40203857421875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">territorial partitions</text>
+</g>
+<g transform="translate(396,576) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-55.8687744140625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">spatial data infrastructures</text>
+</g>
+<g transform="translate(312,482) rotate(0,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-43.57635498046875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">software engineering</text>
+</g>
+<g transform="translate(398,226) rotate(0,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-53.06304931640625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">sensor stream processing</text>
+</g>
+<g transform="translate(516,362) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-34.0030517578125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">sensor networks</text>
+</g>
+<g transform="translate(500,326) rotate(12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-59.98773193359375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">single-subject design studies</text>
+</g>
+<g transform="translate(454,302) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-24.11956787109375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">smart cities</text>
+</g>
+<g transform="translate(398,588) rotate(-12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-75.66998291015625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">software architecture representation</text>
+</g>
+<g transform="translate(472,490) rotate(0,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-30.94354248046875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">territorial units</text>
+</g>
+<g transform="translate(258,422) rotate(0,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-27.79339599609375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">text analytics</text>
+</g>
+<g transform="translate(568,386) rotate(0,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-42.64178466796875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">uncertainty handling</text>
+</g>
+<g transform="translate(316,318) rotate(-12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-27.0018310546875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">trigonometry</text>
+</g>
+<g transform="translate(514,422) rotate(0,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-17.48492431640625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">vaccines</text>
+</g>
+<g transform="translate(420,262) rotate(0,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-23.501220703125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">vector data</text>
+</g>
+<g transform="translate(314,494) rotate(0,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-40.661865234375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">vector-space model</text>
+</g>
+<g transform="translate(396,204) rotate(12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-51.75384521484375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">transport interoperability</text>
+</g>
+<g transform="translate(236,370) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-44.9117431640625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">translational research</text>
+</g>
+<g transform="translate(490,460) rotate(12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-16.822265625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">thesauri</text>
+</g>
+<g transform="translate(540,436) rotate(-12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-30.4178466796875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">topic modeling</text>
+</g>
+<g transform="translate(498,316) rotate(12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-20.96136474609375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">toxicology</text>
+</g>
+<g transform="translate(308,298) rotate(-12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-40.59136962890625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">traffic data analysis</text>
+</g>
+<g transform="translate(494,298) rotate(12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-45.8583984375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">sensor measurements</text>
+</g>
+<g transform="translate(268,466) rotate(12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-45.0245361328125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">semantic subscription</text>
+</g>
+<g transform="translate(382,246) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-25.09844970703125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">patient data</text>
+</g>
+<g transform="translate(268,340) rotate(-12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-33.12689208984375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">open innovation</text>
+</g>
+<g transform="translate(500,506) rotate(12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-45.6005859375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">photographic archives</text>
+</g>
+<g transform="translate(588,404) rotate(-12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-37.54595947265625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">plant phenotyping</text>
+</g>
+<g transform="translate(398,600) rotate(-12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-54.760986328125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">protein function prediction</text>
+</g>
+<g transform="translate(368,218) rotate(0,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-59.62518310546875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">ontology-based classification</text>
+</g>
+<g transform="translate(482,516) rotate(12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-34.81072998046875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">ontology storage</text>
+</g>
+<g transform="translate(586,414) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-42.93182373046875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">health care evidence</text>
+</g>
+<g transform="translate(398,612) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-57.82452392578125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">offshore tax-sheltered firms</text>
+</g>
+<g transform="translate(512,482) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-38.47247314453125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">online newspapers</text>
+</g>
+<g transform="translate(312,510) rotate(0,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-38.42413330078125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">ontology inference</text>
+</g>
+<g transform="translate(224,414) rotate(0,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-27.31805419921875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">public events</text>
+</g>
+<g transform="translate(200,398) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-40.130126953125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">public procurement</text>
+</g>
+<g transform="translate(254,446) rotate(12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-24.1900634765625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">schema.org</text>
+</g>
+<g transform="translate(400,186) rotate(0,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-46.93798828125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">safe food consumption</text>
+</g>
+<g transform="translate(218,430) rotate(0,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-44.0980224609375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">scientific publications</text>
+</g>
+<g transform="translate(564,454) rotate(12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-39.872314453125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">security knowledge</text>
+</g>
+<g transform="translate(304,530) rotate(12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-41.1492919921875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">semantic publishing</text>
+</g>
+<g transform="translate(398,624) rotate(-12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-51.10528564453125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">risk factors identification</text>
+</g>
+<g transform="translate(494,536) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-39.39093017578125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">rights enforcement</text>
+</g>
+<g transform="translate(394,168) rotate(-12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-54.4185791015625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">public service descriptions</text>
+</g>
+<g transform="translate(400,634) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-44.947998046875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">ranking computations</text>
+</g>
+<g transform="translate(316,286) rotate(-12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-22.75799560546875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">raster data</text>
+</g>
+<g transform="translate(612,420) rotate(-12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-37.73126220703125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">region-based data</text>
+</g>
+<g transform="translate(472,282) rotate(0,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-14.85845947265625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">obesity</text>
+</g>
+<g transform="translate(322,274) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-25.612060546875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">glycobiology</text>
+</g>
+<g transform="translate(526,466) rotate(0,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-16.87261962890625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">big data</text>
+</g>
+<g transform="translate(448,204) rotate(12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-51.88677978515625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">bibliographic repositories</text>
+</g>
+<g transform="translate(604,434) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-48.29754638671875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">bilingual Arabic-English</text>
+</g>
+<g transform="translate(266,326) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-23.85772705078125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">biodiversity</text>
+</g>
+<g transform="translate(494,548) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-39.533935546875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">biogeographic data</text>
+</g>
+<g transform="translate(400,154) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-49.395263671875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">bibliographic references</text>
+</g>
+<g transform="translate(328,262) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-23.20513916015625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">audiovisual</text>
+</g>
+<g transform="translate(396,650) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-47.55230712890625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">air traffic management</text>
+</g>
+<g transform="translate(288,554) rotate(12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-60.31402587890625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">adaptive semantic publishing</text>
+</g>
+<g transform="translate(494,242) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-47.51202392578125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">ambient assisted living</text>
+</g>
+<g transform="translate(198,450) rotate(0,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-36.6053466796875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">amplicon analysis</text>
+</g>
+<g transform="translate(300,240) rotate(12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-52.408447265625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">art research vocabularies</text>
+</g>
+<g transform="translate(290,538) rotate(12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-43.3084716796875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">biomedical metadata</text>
+</g>
+<g transform="translate(336,202) rotate(12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-41.4071044921875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">biomedical research</text>
+</g>
+<g transform="translate(400,142) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-48.170654296875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">city-wide infrastructure</text>
+</g>
+<g transform="translate(428,178) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-47.55230712890625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">chemical contaminants</text>
+</g>
+<g transform="translate(626,440) rotate(-12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-39.60040283203125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">clinical assessment</text>
+</g>
+<g transform="translate(398,672) rotate(12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-58.934326171875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">clinical autonomy assistance</text>
+</g>
+<g transform="translate(478,274) rotate(0,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-25.6402587890625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">clinical trials</text>
+</g>
+<g transform="translate(554,470) rotate(-12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-24.20416259765625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">cancer data</text>
+</g>
+<g transform="translate(400,130) rotate(-12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-63.7763671875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">business process management</text>
+</g>
+<g transform="translate(274,314) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-25.57177734375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">biorefineries</text>
+</g>
+<g transform="translate(496,566) rotate(0,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-43.20574951171875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">building construction</text>
+</g>
+<g transform="translate(394,120) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-70.3546142578125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">building information management</text>
+</g>
+<g transform="translate(300,570) rotate(12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-44.3961181640625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">building maintenance</text>
+</g>
+<g transform="translate(396,682) rotate(12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-48.18475341796875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">academic management</text>
+</g>
+<g transform="translate(466,262) rotate(0,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-20.4195556640625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">Zika virus</text>
+</g>
+<g transform="translate(318,458) rotate(12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-7.7545166015625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">GIS</text>
+</g>
+<g transform="translate(540,504) rotate(12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-36.375732421875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">GDPR compliance</text>
+</g>
+<g transform="translate(264,502) rotate(0,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-25.8336181640625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">Geographica</text>
+</g>
+<g transform="translate(294,228) rotate(12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-38.60137939453125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">Getty vocabularies</text>
+</g>
+<g transform="translate(188,442) rotate(0,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-39.5218505859375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">Holocaust research</text>
+</g>
+<g transform="translate(582,372) rotate(-12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-20.173828125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">FrameNet</text>
+</g>
+<g transform="translate(476,230) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-22.0751953125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">Europeana</text>
+</g>
+<g transform="translate(484,580) rotate(-12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-31.59210205078125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">Bulgarian icons</text>
+</g>
+<g transform="translate(510,292) rotate(12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-20.9794921875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">COVID-19</text>
+</g>
+<g transform="translate(206,470) rotate(0,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-44.85333251953125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">EC Publications Office</text>
+</g>
+<g transform="translate(560,346) rotate(0,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-17.74072265625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">EUCases</text>
+</g>
+<g transform="translate(544,326) rotate(12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-22.365234375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">ISO 25964</text>
+</g>
+<g transform="translate(464,524) rotate(12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-14.0548095703125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">ISOcat</text>
+</g>
+<g transform="translate(398,106) rotate(-12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-47.7235107421875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">SHACL implementation</text>
+</g>
+<g transform="translate(436,636) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-31.8760986328125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">Panama papers</text>
+</g>
+<g transform="translate(172,422) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-22.39544677734375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">Semalytics</text>
+</g>
+<g transform="translate(528,552) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-31.85394287109375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">TheyBuyForYou</text>
+</g>
+<g transform="translate(250,516) rotate(-12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-20.38128662109375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">XO laptop</text>
+</g>
+<g transform="translate(484,222) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-31.2154541015625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">Orthodox icons</text>
+</g>
+<g transform="translate(316,586) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-23.49114990234375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">OpenBiodiv</text>
+</g>
+<g transform="translate(454,194) rotate(0,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-25.21527099609375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">IoT systems</text>
+</g>
+<g transform="translate(510,588) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-50.48291015625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">NLP Interchange Format</text>
+</g>
+<g transform="translate(626,450) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-25.48516845703125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">OceanGraph</text>
+</g>
+<g transform="translate(486,604) rotate(-12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-35.054443359375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">Open Street Map</text>
+</g>
+<g transform="translate(394,96) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-51.651123046875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">cloud infrastructure code</text>
+</g>
+<g transform="translate(492,614) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-43.99127197265625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">company information</text>
+</g>
+<g transform="translate(398,696) rotate(12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-51.1395263671875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">electronic health records</text>
+</g>
+<g transform="translate(416,666) rotate(12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-44.91778564453125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">educational metadata</text>
+</g>
+<g transform="translate(398,82) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-67.66973876953125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">electrophysiological experiments</text>
+</g>
+<g transform="translate(474,162) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-42.51287841796875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">engineering services</text>
+</g>
+<g transform="translate(288,602) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-44.5693359375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">enterprise data fabric</text>
+</g>
+<g transform="translate(186,462) rotate(0,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-36.53082275390625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">earth observation</text>
+</g>
+<g transform="translate(300,178) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-48.87158203125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">diversity-aware ranking</text>
+</g>
+<g transform="translate(398,708) rotate(12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-38.2891845703125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">digital repositories</text>
+</g>
+<g transform="translate(564,528) rotate(12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-32.03118896484375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">digital mapping</text>
+</g>
+<g transform="translate(628,464) rotate(-12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-36.4281005859375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">disaster response</text>
+</g>
+<g transform="translate(514,194) rotate(-12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-42.95196533203125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">disputed information</text>
+</g>
+<g transform="translate(312,616) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-29.89013671875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">district energy</text>
+</g>
+<g transform="translate(294,210) rotate(0,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-44.15240478515625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">environmental health</text>
+</g>
+<g transform="translate(398,726) rotate(0,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-52.16070556640625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">environmental legislation</text>
+</g>
+<g transform="translate(226,530) rotate(0,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-21.245361328125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">geneology</text>
+</g>
+<g transform="translate(308,166) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-40.661865234375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">football information</text>
+</g>
+<g transform="translate(280,578) rotate(0,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-23.66436767578125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">geolocation</text>
+</g>
+<g transform="translate(322,188) rotate(12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-21.09429931640625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">geospatial</text>
+</g>
+<g transform="translate(564,540) rotate(12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-18.457763671875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">Al-Quran</text>
+</g>
+<g transform="translate(472,658) rotate(0,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-51.1234130859375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">food and drink gazetteer</text>
+</g>
+<g transform="translate(538,214) rotate(12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-41.870361328125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">food and agriculture</text>
+</g>
+<g transform="translate(314,636) rotate(12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-35.69696044921875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">euBusinessGraph</text>
+</g>
+<g transform="translate(552,228) rotate(12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-36.05950927734375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">event recognition</text>
+</g>
+<g transform="translate(492,174) rotate(12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-23.21923828125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">fact mining</text>
+</g>
+<g transform="translate(564,564) rotate(12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-33.57000732421875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">factory planning</text>
+</g>
+<g transform="translate(488,642) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-42.257080078125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">dietary supplements</text>
+</g>
+<g transform="translate(398,66) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-35.96685791015625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">dialog generation</text>
+</g>
+<g transform="translate(504,624) rotate(-12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-33.443115234375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">critical incidents</text>
+</g>
+<g transform="translate(258,200) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-39.2318115234375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">crisis management</text>
+</g>
+<g transform="translate(398,738) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-45.26220703125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">critical infrastructures</text>
+</g>
+<g transform="translate(224,554) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-29.84381103515625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">crowdsourcing</text>
+</g>
+<g transform="translate(258,592) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-33.96478271484375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">cultural heritage</text>
+</g>
+<g transform="translate(288,160) rotate(-12,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-51.94720458984375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">conversational assistants</text>
+</g>
+<g transform="translate(398,746) rotate(0,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-53.50213623046875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">contextualized knowledge</text>
+</g>
+<g transform="translate(400,54) rotate(0,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-42.72235107421875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">conceptual modeling</text>
+</g>
+<g transform="translate(304,650) rotate(0,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-43.513916015625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">construction projects</text>
+</g>
+<g transform="translate(480,140) rotate(12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-30.8529052734375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">consumer data</text>
+</g>
+<g transform="translate(356,710) rotate(12,0,0)">
+<text fill="#f92772" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-43.9248046875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">context configuration</text>
+</g>
+<g transform="translate(234,576) rotate(-12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-35.22967529296875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">curation systems</text>
+</g>
+<g transform="translate(308,146) rotate(-12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-26.60906982421875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">custom rules</text>
+</g>
+<g transform="translate(210,562) rotate(0,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-36.3394775390625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">data-as-a-service</text>
+</g>
+<g transform="translate(568,590) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-45.36492919921875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">data science pipelines</text>
+</g>
+<g transform="translate(398,764) rotate(12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-50.22711181640625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">decision support system</text>
+</g>
+<g transform="translate(310,128) rotate(-12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-34.17022705078125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">defense analysis</text>
+</g>
+<g transform="translate(232,226) rotate(-12,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-22.35919189453125" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">depression</text>
+</g>
+<g transform="translate(308,670) rotate(0,0,0)">
+<text fill="#a6e22a" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-38.26904296875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">data marketplaces</text>
+</g>
+<g transform="translate(586,554) rotate(0,0,0)">
+<text fill="#66d9ef" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-32.4078369140625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">data journalism</text>
+</g>
+<g transform="translate(396,782) rotate(0,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-59.10955810546875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">cyber-physical social system</text>
+</g>
+<g transform="translate(498,674) rotate(12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-46.1162109375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">cyber-physical system</text>
+</g>
+<g transform="translate(308,686) rotate(12,0,0)">
+<text fill="#a581ff" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-49.13140869140625" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">cyber-physical topology</text>
+</g>
+<g transform="translate(560,208) rotate(12,0,0)">
+<text fill="#fd9720" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-35.956787109375" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">data as-a-service</text>
+</g>
+<g transform="translate(480,130) rotate(12,0,0)">
+<text fill="#a6e22d" stroke="none" font-family="Verdana" font-size="8.25982px" font-style="normal" font-weight="normal" x="-22.51629638671875" y="-3.3039283200000003" text-anchor="start" dominant-baseline="alphabetic">graph data</text>
+</g>
+</g>
 </svg>
