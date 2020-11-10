@@ -1,4 +1,18 @@
 
+* Table of Contents                                 :TOC:noexport:
+:PROPERTIES:
+:TOC:      :include all
+:END:
+
+:CONTENTS:
+- [[#academic-uses-of-ontotext-graphdb][Academic Uses of Ontotext GraphDB]]
+- [[#graphdb-on-wikipedia][GraphDB on Wikipedia]]
+- [[#sources][Sources]]
+- [[#zotero-bibliography][Zotero Bibliography]]
+- [[#wordcloud][WordCloud]]
+- [[#topics][Topics]]
+:END:
+
 * Academic Uses of Ontotext GraphDB
 
 [[http://graphdb.ontotext.com][Ontotext GraphDB]] has a Free edition that only has a limit on the number of concurrent queries.
@@ -29,6 +43,45 @@ Here are some sources of references, refreshed as of Dec 2019:
     Eg the news item [[https://commercegazette.com/2019/12/09/automatic-identification-and-data-capture-aidc-market-worth-100-5-billion-by-2025-datalogic-honeywell-zebra-technologies-sick-cognex-sato-denso-wave-cipherlab-2/][Automatic Identification and Data Capture (AIDC) Market worth $100.5 billion by 2025-Datalogic, Honeywell, Zebra Technologies, Sick, Cognex, Sato, Denso Wave, Cipherlab]]
     is not related to Ontotext, except that it mentions the item 
     [[https://commercegazette.com/2019/12/09/semantic-knowledge-discovery-software-market-research-2019-key-players-maanachemaxonexpert-system-spaontotextcollexis-elseviercambridge-semanticsnervana-intel/][Semantic Knowledge Discovery Software Market Research 2019: Key Players- MAANA,ChemAxon,Expert System SpA,OntoText,Collexis (Elsevier),Cambridge Semantics,Nervana (intel)]] at the bottom.
+
+* Zotero Bibliography
+
+I started a Zotero bibliography [[https://www.zotero.org/groups/2272261/ontotext/items/collectionKey/3XWCS346][Groups > Ontotext > Library > Papers Mentioning GraphDB]] that is currently closed 
+and includes only 102+14 papers (102 by external authors and 14 by Ontotext authors).
+If you are interested, we could open the library and add more of the Google Scholar papers to it.
+
+#+ATTR_HTML: :class stretch :style width:1595px
+[[./img/zotero-graphdb.png]]
+
+If you have some other information needs or ideas, post an issue or a pull request!
+
+* WordCloud
+
+Here is a word-cloud of applications of Ontotext GraphDB in academic papers, based on the Topics shown in the next section
+
+- I used [[http://WordClouds.com][WordClouds.com]] to generate this cloud
+- [[./graphdb-wordCloud.txt]] uses "~" instead of space as separator to make the tool treat phrases not words
+- Configuration saved as: [[./ontotext-graphdb-applications.wcld]] (CloudConfig v3.5.3)
+- Use ~File> Open Text File~ and load the above file. It represents the following settings:
+  - ~File> Paste/Type text~: paste [[./graphdb-wordCloud.txt]]
+  - Size: 800x800
+  - Gap size: 2
+  - Direction of words: uphill/horizontal/downhill
+  - Shape> shapes: christmas tree
+  - Mask: checked
+  - Theme: 4-th one with 6 colors
+- Colors> background> Color: select a dark green
+  - Font: Verdana
+  - Font size (slider above the wordlet): 51 (to fill out the tree shape in a good way)
+- Saved as ontotext-graphdb-applications.png (800x800)
+
+[[./ontotext-graphdb-applications.png]]
+
+- Saved as ontotext-graphdb-applications-HD.png (3200x3200, 2Mb)
+
+- Saved as ontotext-graphdb-applications.svg: Please note that this is a bit inferior "When saving as SVG, masks and backgrounds are not visible".
+
+[[./ontotext-graphdb-applications.svg]]
 
 * Topics
 Here are 230 research topics (phrases) that I've extracted from the first 220 or so papers on Google Scholar (only looking at article titles, not abstracts):
@@ -246,43 +299,4 @@ Here are 230 research topics (phrases) that I've extracted from the first 220 or
 - vaccines
 - vector data
 - vector-space model
-
-* Zotero Bibliography
-
-I started a Zotero bibliography [[https://www.zotero.org/groups/2272261/ontotext/items/collectionKey/3XWCS346][Groups > Ontotext > Library > Papers Mentioning GraphDB]] that is currently closed 
-and includes only 102+14 papers (102 by external authors and 14 by Ontotext authors).
-If you are interested, we could open the library and add more of the Google Scholar papers to it.
-
-#+ATTR_HTML: :class stretch :style width:1595px
-[[./img/zotero-graphdb.png]]
-
-If you have some other information needs or ideas, post an issue or a pull request!
-
-* WordCloud
-
-Here is a word-cloud of applications of Ontotext GraphDB in academic papers.
-
-- I used [[http://WordClouds.com][WordClouds.com]] to generate this cloud
-- [[./graphdb-wordCloud.txt]] uses "~" instead of space as separator to make the tool treat phrases not words
-- Configuration saved as: [[./ontotext-graphdb-applications.wcld]] (CloudConfig v3.5.3)
-- Use ~File> Open Text File~ and load the above file. It represents the following settings:
-  - ~File> Paste/Type text~: paste [[./graphdb-wordCloud.txt]]
-  - Size: 800x800
-  - Gap size: 2
-  - Direction of words: uphill/horizontal/downhill
-  - Shape> shapes: christmas tree
-  - Mask: checked
-  - Theme: 4-th one with 6 colors
-- Colors> background> Color: select a dark green
-  - Font: Verdana
-  - Font size (slider above the wordlet): 51 (to fill out the tree shape in a good way)
-- Saved as ontotext-graphdb-applications.png (800x800)
-
-[[./ontotext-graphdb-applications.png]]
-
-- Saved as ontotext-graphdb-applications-HD.png (3200x3200, 2Mb)
-
-- Saved as ontotext-graphdb-applications.svg: Please note that this is a bit inferior "When saving as SVG, masks and backgrounds are not visible".
-
-[[./ontotext-graphdb-applications.svg]]
 
