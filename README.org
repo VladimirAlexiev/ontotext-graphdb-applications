@@ -47,7 +47,7 @@ Here are some sources of references, refreshed as of Dec 2019:
 * Zotero Bibliography
 
 I started a Zotero bibliography [[https://www.zotero.org/groups/2272261/ontotext/items/collectionKey/3XWCS346][Groups > Ontotext > Library > Papers Mentioning GraphDB]] that is currently closed 
-and includes only 102+14 papers (102 by external authors and 14 by Ontotext authors).
+and includes only 132+14 papers (132 by external authors and 14 by Ontotext authors).
 If you are interested, we could open the library and add more of the Google Scholar papers to it.
 
 #+ATTR_HTML: :class stretch :style width:1595px
