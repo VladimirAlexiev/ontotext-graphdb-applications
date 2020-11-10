@@ -22,7 +22,7 @@ Here are some sources of references, refreshed as of Dec 2019:
   There is some duplication, but even assuming this represents 700 unique academic papers, that's still very impressive.
 - [[https://www.google.com/search?q=ontotext+graphdb%2520OR%2520owlim&tbm=bks][Google Books]] (search for "ontotext graphdb OR owlim"): it's hard to say how many of these hits actually mention it since Google Books search uses some associative algorithm.
   But I checked the first 5 pages and it seems most of those 50 books mention it.
-- [[https://news.google.com/search?q=ontotext][Google News]] (search for "Ontotext", not Ontotext GraphDB): this i sharder to judge, because:
+- [[https://news.google.com/search?q=ontotext][Google News]] (search for "Ontotext", not Ontotext GraphDB): this is harder to judge, because:
   - It includes many company press releases
   - It seems to index not only the text of news items, but also header/footer text.
     Eg the news item [[https://commercegazette.com/2019/12/09/automatic-identification-and-data-capture-aidc-market-worth-100-5-billion-by-2025-datalogic-honeywell-zebra-technologies-sick-cognex-sato-denso-wave-cipherlab-2/][Automatic Identification and Data Capture (AIDC) Market worth $100.5 billion by 2025-Datalogic, Honeywell, Zebra Technologies, Sick, Cognex, Sato, Denso Wave, Cipherlab]]
@@ -34,6 +34,9 @@ Here are some sources of references, refreshed as of Dec 2019:
 I started a Zotero bibliography [[https://www.zotero.org/groups/2272261/ontotext/items/collectionKey/3XWCS346][Groups > Ontotext > Library > Papers Mentioning GraphDB]] that is currently closed 
 and includes only 102+14 papers (102 by external authors and 14 by Ontotext authors).
 If you are interested, we could open the library and add more of the Google Scholar papers to it.
+
+#+ATTR_HTML: :class stretch :style width:1595px
+[[./img/zotero-graphdb.png]]
 
 If you have some other information needs or ideas, post an issue or a pull request!
 
