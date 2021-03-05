@@ -37,13 +37,12 @@ A version of this work was presented as:
   Organized by the EU Publications Office and the ISA2 Programme
 - Abstract: Semantic Graph Databases are the foundation of Enterprise Knowledge Graphs. They are used in numerous industrial applications, but also Knowledge Organization Management systems (thesaurus and ontology management systems), such as VocBench, SWC PoolParty, Synaptica Semaphore. Through VocBench, semantic databases manage or publish some of the most important thesauri: EuroVoc, AgroVoc, the Getty Vocabularies, etc. Semantic databases are also used in a wide variety of research domains and projects. Some have open source or free editions that make them an easy choice for academic research. We searched on Google Scholar and found 1000-1200 academic papers and theses mentioning one of the popular databases. We also found at least 50 books on Google Books that mention it. We started a Zotero bibliography on the topic (currently about 150 papers), and captured about 220 research topics, based on the titles of about 250 papers. We will present an analysis of reference data and research domains using a semantic database. Some of the traditional topics include: social media analytics, data marketplaces, business process management, enterprise data integration, statistical data, engineering, smart cities, sensor networks, life sciences, biomedical ontologies, medicines, chemistry, linguistic data, semantic publishing, semantic text analysis, geographic information, master data management. Newer or more exotic topics include academic/research data, COVID and Zika viruses, Quran and bilingual Arabic-English data, art history, Holocaust research, musical events and adaptations, iconography, food and drink, tourism, investment decision support, economic research, offshore leaks, maritime data, construction projects, building information management, crisis management, critical incidents and infrastructures, data journalism, clinical trials and specific medical topics (e.g. intestinal cells, intracoronal tooth restorations, vaccines, toxicology), investment recommendations, data journalism, etc.
 
-[[./Diverse Uses of a Semantic Graph Database for Knowledge Organization and Research (ENDORSE 2021).png]]
+[[./img/Diverse Uses of a Semantic Graph Database for Knowledge Organization and Research (ENDORSE 2021).png]]
 
 * Zotero Bibliography
 
 I started a Zotero bibliography [[https://www.zotero.org/groups/2744757/ontotext-graphdb][Ontotext GraphDB]] that as of 1-Mar-2021 includes [[https://www.zotero.org/groups/2744757/ontotext-graphdb/library][175 papers]] mentioning GraphDB:
 
-#+ATTR_HTML: :class stretch :style width:1595px
 [[./img/zotero-graphdb.png]]
 
 It includes the following categories:
@@ -89,9 +88,10 @@ Here are some sources of references, refreshed as of Dec 2019:
 
 Here is a word-cloud of applications of Ontotext GraphDB in academic papers, based on the Topics shown in the next section
 
+- Save the extracted topics (see next section) to  [[./graphdb-wordCloud.txt]] 
+  - Replace spaces with "~" to make the tool treat phrases not words
 - I used [[http://WordClouds.com][WordClouds.com]] to generate this cloud
-- [[./graphdb-wordCloud.txt]] uses "~" instead of space as separator to make the tool treat phrases not words
-- Configuration saved as: [[./ontotext-graphdb-applications.wcld]] (CloudConfig v3.5.3)
+- Configuration saved as: [[./graphdb-wordCloud.wcld]] (CloudConfig v3.5.3)
 - Use ~File> Open Text File~ and load the above file. It represents the following settings:
   - ~File> Paste/Type text~: paste [[./graphdb-wordCloud.txt]]
   - Size: 800x800
@@ -105,13 +105,13 @@ Here is a word-cloud of applications of Ontotext GraphDB in academic papers, bas
   - Font size (slider above the wordlet): 51 (to fill out the tree shape in a good way)
 - Saved as ontotext-graphdb-applications.png (800x800)
 
-[[./ontotext-graphdb-applications.png]]
+[[./img/ontotext-graphdb-applications.png]]
 
 - Saved as ontotext-graphdb-applications-HD.png (3200x3200, 2Mb)
 
 - Saved as ontotext-graphdb-applications.svg: Please note that this is a bit inferior "When saving as SVG, masks and backgrounds are not visible".
 
-[[./ontotext-graphdb-applications.svg]]
+[[./img/ontotext-graphdb-applications.svg]]
 
 ** Topics
 Here are 230 research topics (phrases) that I've extracted from the first 220 or so papers on Google Scholar (only looking at article titles, not abstracts):
